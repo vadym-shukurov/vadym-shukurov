@@ -25,6 +25,7 @@
 * **[Engineering-Operating-System](https://github.com/vadym-shukurov/engineering-operating-system):** My framework for independent team delivery and continuous deployment gates.
 * **[Service-Ownership-Model](https://github.com/vadym-shukurov/engineering-operating-system/blob/main/service-ownership-model.md):** Defining the "You Build It, You Own It" contract between platform and product teams.
 * **[AI-Governance-in-SDLC](https://github.com/vadym-shukurov/ai-engineering):** Guardrails for implementing AI-supported PR reviews and coding while maintaining security.
+* **[Engineering-Standards-Boilerplate](https://github.com/vadym-shukurov/engineering-standards-boilerplate):** Production-grade code templates in Java and TypeScript demonstrating the "Paved Road" for testability, security, and observability.
 
 ---
 📍 [Amsterdam, NL](https://www.google.com/maps/search/Amsterdam,%20Netherlands) | [LinkedIn](https://www.linkedin.com/in/vadym-shukurov/) | vadym.shukurov@gmail.com
