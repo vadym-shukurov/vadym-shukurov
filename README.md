@@ -43,5 +43,7 @@ I believe engineering leadership is a product. I open-source my management frame
 * **[Management & Culture](https://github.com/vadym-shukurov/management-and-culture):** My core framework for 1-on-1s, team-led onboarding, and blameless culture.
 * **[Code Stewardship Model](https://github.com/vadym-shukurov/management-and-culture/blob/main/culture/ownership-model.md):** Moving beyond gatekeeping to a "Stewardship" model using CODEOWNERS.
 
+
 ---
-📍 [Amsterdam, NL](https://www.google.com/maps/search/Amsterdam,%20Netherlands) | [LinkedIn](https://www.linkedin.com/in/vadym-shukurov/) | vadym.shukurov@gmail.com
+### 🤝 Let's Connect
+[LinkedIn](https://linkedin.com/in/vadym-shukurov) | [Email](mailto:vadym.shukurov@gmail.com) | **[Read My Manager README ↗️](https://github.com/vadym-shukurov/management-and-culture/blob/main/management/MY_USER_MANUAL.md)**
