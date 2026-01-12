@@ -30,12 +30,14 @@ graph LR
 * **Leadership:** Managing Managers, Matrix Leadership, and Engineering Strategy
 * **Operations:** DORA Metrics, Release Governance, and Incident Management
 * **Architecture:** Monolith Decoupling, API Standardization, and Reliability Engineering
+* **Quality Engineering:** Risk-Based Testing, Chaos Engineering, Observability-Driven Development, and AI Governance.
 
 ### 📂 Featured Leadership Playbooks
 * **[Engineering-Operating-System](https://github.com/vadym-shukurov/engineering-operating-system):** My framework for independent team delivery and continuous deployment gates.
 * **[Service-Ownership-Model](https://github.com/vadym-shukurov/engineering-operating-system/blob/main/service-ownership-model.md):** Defining the "You Build It, You Own It" contract between platform and product teams.
 * **[AI-Governance-in-SDLC](https://github.com/vadym-shukurov/ai-engineering):** Guardrails for implementing AI-supported PR reviews and coding while maintaining security.
 * **[Engineering-Standards-Boilerplate](https://github.com/vadym-shukurov/engineering-standards-boilerplate):** Production-grade code templates in Java and TypeScript demonstrating the "Paved Road" for testability, security, and observability.
+* **[Quality-Strategy-Vision](https://github.com/vadym-shukurov/quality-strategy-and-vision):** My executive framework for high-traffic SaaS quality, combining Risk-Based Testing with failure tolerance and AI safety.
 
 ## 🧠 The Leadership Operating System
 I believe engineering leadership is a product. I open-source my management frameworks to foster transparency and help other leaders scale.
