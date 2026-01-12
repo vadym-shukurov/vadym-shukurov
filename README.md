@@ -46,4 +46,4 @@ I believe engineering leadership is a product. I open-source my management frame
 
 ---
 ### 🤝 Let's Connect
-[LinkedIn](https://linkedin.com/in/vadym-shukurov) | [Email](mailto:vadym.shukurov@gmail.com) | **[Read My Manager README ↗️]([https://github.com/vadym-shukurov/management-and-culture/blob/main/MY_USER_MANUAL.md])**
+[LinkedIn](https://linkedin.com/in/vadym-shukurov) | [Email](mailto:vadym.shukurov@gmail.com) | **[Read My Manager README ↗️](https://github.com/vadym-shukurov/management-and-culture/blob/main/MY_USER_MANUAL.md)**
