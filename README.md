@@ -15,6 +15,7 @@
 * **Small Batch Delivery:** I favor small, low-risk code chunks over "Big Bang" releases to minimize blast radius and increase feedback loops
 * **DevEx as a Force Multiplier:** I believe the best engineering standards are those baked into the "Paved Road" of internal tooling
 
+```mermaid
 graph LR
     A[Business ROI] --> B(Platform Strategy)
     B --> C(High-Autonomy Squads)
@@ -22,6 +23,7 @@ graph LR
     D --> E[Impact & Reliability]
     style B fill:#f96,stroke:#333
     style E fill:#bbf,stroke:#333
+```
 
 ### 🛠 The Executive Toolkit
 ![](https://img.shields.io/badge/Strategy-3--5--Year%20Roadmaps-blue) ![](https://img.shields.io/badge/Culture-DevOps%20%2F%20SRE-orange) ![](https://img.shields.io/badge/Delivery-CI%2FCD%20%2F%20GitOps-blue) ![](https://img.shields.io/badge/Compliance-ISO%209001-blueviolet)
