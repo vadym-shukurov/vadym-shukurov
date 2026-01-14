@@ -19,18 +19,14 @@ I believe engineering leadership is a product. I open-source my management and a
 * **DevEx as a Force Multiplier:** I believe the best engineering standards are those baked into the "Paved Road" of internal tooling.
 
 
-
 ---
 
 ## 🛠️ The Executive Toolkit
-
 
 ![Strategy](https://img.shields.io/badge/Strategy-3--5--Year%20Roadmaps-2d333b?style=for-the-badge&logoColor=white)
 ![Culture](https://img.shields.io/badge/Culture-DevOps%20%2F%20SRE-2d333b?style=for-the-badge)
 ![Delivery](https://img.shields.io/badge/Delivery-CI%2FCD%20%2F%20GitOps-2d333b?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Compliance-ISO%209001%20%2F%20SOC2-2d333b?style=for-the-badge)
-
-`Strategy: 3-5-Year Roadmaps` `Culture: DevOps / SRE` `Delivery: CI/CD / GitOps` `Compliance: ISO 9001 / SOC2`
 
 * **Leadership:** Managing Managers, Matrix Leadership, and Engineering Strategy.
 * **Operations:** DORA Metrics, Release Governance, and Incident Management.
