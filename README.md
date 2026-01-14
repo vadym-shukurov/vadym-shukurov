@@ -39,12 +39,12 @@ I believe engineering leadership is a product. I open-source my management and a
 * **[Strategic-Hiring-and-Capacity-Planning](https://github.com/vadym-shukurov/Strategic-Hiring-and-Capacity-Planning):** Data-driven headcount planning, 70/20/10 resource allocation, and 30-60-90 day onboarding for autonomous stewardship.
 
 ### 🛡️ Quality & Governance
-* **[Quality-Strategy-Vision](https://github.com/vadym-shukurov/Quality-Strategy-Vision):** Executive framework for high-traffic SaaS quality, combining Risk-Based Testing with failure tolerance and AI safety.
-* **[AI-Governance-in-SDLC](https://github.com/vadym-shukurov/AI-Governance-in-SDLC):** Guardrails for implementing AI-supported PR reviews and coding while maintaining security and architectural integrity.
+* **[Quality-Strategy-Vision](https://github.com/vadym-shukurov/quality-strategy-and-vision):** Executive framework for high-traffic SaaS quality, combining Risk-Based Testing with failure tolerance and AI safety.
+* **[AI-Governance-in-SDLC](https://github.com/vadym-shukurov/ai-engineering):** Guardrails for implementing AI-supported PR reviews and coding while maintaining security and architectural integrity.
 
 ### 👥 Management & Culture
 * **[Engineering-Operating-System](https://github.com/vadym-shukurov/Engineering-Operating-System):** My core framework for 1-on-1s, team-led onboarding, and building a blameless culture.
-* **[Code Stewardship Model](https://github.com/vadym-shukurov/Code-Stewardship-Model):** Moving beyond gatekeeping to a "Stewardship" model using CODEOWNERS and automated quality gates.
+* **[Service Ownership Model](https://github.com/vadym-shukurov/service-ownership-model):** Moving beyond gatekeeping to a "Ownership" model using [CODEOWNERS](https://github.com/vadym-shukurov/management-and-culture/blob/main/technical-strategy/code-guardianship.md) and automated quality gates.
 
 ---
 
