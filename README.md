@@ -14,7 +14,7 @@ I believe engineering leadership is a product. I open-source my management and a
 ---
 
 ## 🧠 Modern Engineering Philosophy
-* **You Build It, You Own It:** I empower squads to own the full lifecycle—from architectural design to production monitoring and on-call.
+* **You Build It, You Own It:** I empower squads to own the full lifecycle-from architectural design to production monitoring and on-call.
 * **Small Batch Delivery:** I favor small, low-risk code chunks over "Big Bang" releases to minimize blast radius and increase feedback loops.
 * **DevEx as a Force Multiplier:** I believe the best engineering standards are those baked into the "Paved Road" of internal tooling.
 
