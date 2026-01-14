@@ -24,25 +24,11 @@ I believe engineering leadership is a product. I open-source my management and a
 
 ## 🛠️ The Executive Toolkit
 
-<style>
-  .badge {
-    display: inline-block;
-    padding: 4px 12px;
-    border-radius: 16px; /* High radius for pill shape */
-    font-family: 'Courier New', Courier, monospace; /* Keeping your code-like font */
-    font-size: 0.85rem;
-    font-weight: 600;
-    margin-right: 8px;
-    background-color: #2d333b; /* Dark grey background */
-    color: #adbac7; /* Light grey text */
-    border: 1px solid #444c56;
-  }
-</style>
 
-<span class="badge">Strategy: 3–5-Year Roadmaps</span>
-<span class="badge">Culture: DevOps / SRE</span>
-<span class="badge">Delivery: CI/CD / GitOps</span>
-<span class="badge">Compliance: ISO 9001 / SOC2</span>
+![Strategy](https://img.shields.io/badge/Strategy-3--5--Year%20Roadmaps-2d333b?style=for-the-badge&logoColor=white)
+![Culture](https://img.shields.io/badge/Culture-DevOps%20%2F%20SRE-2d333b?style=for-the-badge)
+![Delivery](https://img.shields.io/badge/Delivery-CI%2FCD%20%2F%20GitOps-2d333b?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-ISO%209001%20%2F%20SOC2-2d333b?style=for-the-badge)
 
 `Strategy: 3-5-Year Roadmaps` `Culture: DevOps / SRE` `Delivery: CI/CD / GitOps` `Compliance: ISO 9001 / SOC2`
 
