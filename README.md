@@ -46,7 +46,7 @@ I believe engineering leadership is a product. I open-source my management and a
 * **[AI-Governance-in-SDLC](https://github.com/vadym-shukurov/ai-engineering):** Guardrails for implementing AI-supported PR reviews and coding while maintaining security and architectural integrity.
 
 ### 👥 Management & Culture
-* **[Engineering-Operating-System](https://github.com/vadym-shukurov/Engineering-Operating-System):** My core framework for 1-on-1s, team-led onboarding, and building a blameless culture.
+* **[Management-And-Culture](https://github.com/vadym-shukurov/management-and-culture):** My core framework for 1-on-1s, team-led onboarding, and building a blameless culture.
 * **[Service Ownership Model](https://github.com/vadym-shukurov/service-ownership-model):** Moving beyond gatekeeping to a "Ownership" model using [CODEOWNERS](https://github.com/vadym-shukurov/management-and-culture/blob/main/technical-strategy/code-guardianship.md) and automated quality gates.
 
 ---
