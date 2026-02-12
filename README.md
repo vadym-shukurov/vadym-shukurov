@@ -28,10 +28,10 @@ I believe engineering leadership is a product. I open-source my management and a
 ![Delivery](https://img.shields.io/badge/Delivery-CI%2FCD%20%2F%20GitOps-2d333b?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Compliance-ISO%209001%20%2F%20SOC2-2d333b?style=for-the-badge)
 
-* **Leadership:** Managing Managers, Matrix Leadership, and Engineering Strategy.
-* **Operations:** DORA Metrics, Release Governance, and Incident Management.
-* **Architecture:** Monolith Decoupling, API Standardization, and Event-Driven Resilience.
-* **Quality Engineering:** Risk-Based Testing, Chaos Engineering, and AI Governance.
+ **Leadership:** Managing Managers, Matrix Leadership, and Engineering Strategy.
+ **Operations:** DORA Metrics, Release Governance, and Incident Management.
+ **Architecture:** Monolith Decoupling, API Standardization, and Event-Driven Resilience.
+ **Quality Engineering:** Risk-Based Testing, Chaos Engineering, and AI Governance.
 
 ---
 
