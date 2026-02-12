@@ -28,10 +28,10 @@ I believe engineering leadership is a product. I open-source my management and a
 ![Delivery](https://img.shields.io/badge/Delivery-CI%2FCD%20%2F%20GitOps-2d333b?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Compliance-ISO%209001%20%2F%20SOC2-2d333b?style=for-the-badge)
 
- **Leadership:** Managing Managers, Matrix Leadership, and Engineering Strategy.
- **Operations:** DORA Metrics, Release Governance, and Incident Management.
- **Architecture:** Monolith Decoupling, API Standardization, and Event-Driven Resilience.
- **Quality Engineering:** Risk-Based Testing, Chaos Engineering, and AI Governance.
+* **Leadership:** Managing Managers, Matrix Leadership, and Engineering Strategy.
+* **Operations:** DORA Metrics, Release Governance, and Incident Management.
+* **Architecture:** Monolith Decoupling, API Standardization, and Event-Driven Resilience.
+* **Quality Engineering:** Risk-Based Testing, Chaos Engineering, and AI Governance.
 
 ---
 
@@ -55,13 +55,13 @@ I believe engineering leadership is a product. I open-source my management and a
 * **[eCoffee-E2E](https://github.com/vadym-shukurov/eCoffee-E2E):** Enterprise-grade iOS UI Automation demonstrating XCUITest, Page Object Model, and CI/CD integration.
 * **[Arkiv-SRE-Blueprint](https://github.com/vadym-shukurov/arkiv-sre-blueprint)**: Production-grade GitOps + SRE reference stack (Kind + Argo CD ApplicationSet + SOPS/age + CI + SLO burn-rate alerts + Grafana dashboards + runbooks + GameDay incident drill + postmortem).
 
-* **What it demonstrates:** owning production end-to-end (reproducibility, observability, reliability, incident response).
+ **What it demonstrates:** owning production end-to-end (reproducibility, observability, reliability, incident response).
 
-* **I build and operate production platforms with an SRE mindset:** GitOps, observability (SLIs/SLOs), incident response, and secure delivery pipelines.
+ **I build and operate production platforms with an SRE mindset:** GitOps, observability (SLIs/SLOs), incident response, and secure delivery pipelines.
     
-* **Recent example:** `arkiv-sre-blueprint` - a reproducible, end-to-end platform blueprint with Argo CD, SOPS, CI, SLO burn-rate alerting, dashboards, runbooks, and GameDay drills.
+ **Recent example:** `arkiv-sre-blueprint` - a reproducible, end-to-end platform blueprint with Argo CD, SOPS, CI, SLO burn-rate alerting, dashboards, runbooks, and GameDay drills.
 
-* **Strengths:** production ownership, reliability engineering, Kubernetes/GitOps, incident response, and growing teams that ship and operate what they build.
+ **Strengths:** production ownership, reliability engineering, Kubernetes/GitOps, incident response, and growing teams that ship and operate what they build.
 
 ---
 
